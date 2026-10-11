@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=TenzXcraft
+Comment=Éditeur vidéo multipistes
+Exec=python3 %k/tenzxcraft.py %f
+Terminal=false
+Categories=AudioVideo;Video;AudioVideoEditing;
+MimeType=application/x-tenzxcraft;
