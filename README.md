@@ -18,7 +18,7 @@ Monter une vidéo ne devrait pas coûter un bras.
 TenzXcraft est né de cette idée : proposer un logiciel de montage accessible à tout le monde, sans abonnement, sans pub, sans piège.
 🤖 Vibe Coded
 
-Ce projet est vibe codé : développé avec l'aide de l'IA, à l'instinct, en itérant au feeling plutôt qu'en suivant une architecture rigide.
+Ce projet est vibe codé : développé avec l'aide de l'IA claude , à l'instinct, en itinerant au feeling plutôt qu'en suivant une architecture rigide.
 
 Ça veut dire quoi concrètement ?
 
@@ -51,7 +51,7 @@ Ce projet est vibe codé : développé avec l'aide de l'IA, à l'instinct, en it
 🚀 Installation
 
 # Cloner le dépôt
-git clone https://github.com/votre-pseudo/tenzxcraft.git
+git clone https://github.com/NajbX/tenzxcraft.git
 
 # Accéder au dossier
 cd tenzxcraft
